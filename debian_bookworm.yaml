@@ -29,3 +29,7 @@ python3-empy:
     debian:
         bookworm: 
             packages: [python3-empy]
+libogre-dev:
+    debian:
+        bookworm:
+            packages: [libogre-1.9-dev]

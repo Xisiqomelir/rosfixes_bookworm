@@ -33,3 +33,11 @@ libogre-dev:
     debian:
         bookworm:
             packages: [libogre-1.9-dev]
+liboorocos-kdl-dev:
+    debian:
+        bookworm:
+            packages: [liborocos-kdl-dev]
+python3-rospkg:
+    debian:
+        bookworm:
+            packages: [python3-rospkg]

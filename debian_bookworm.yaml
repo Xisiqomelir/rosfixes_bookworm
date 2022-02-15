@@ -1,0 +1,31 @@
+libgazebo11-dev:
+    debian:
+        bookworm: 
+            packages: [ros-simulators-dev]
+rtabmap:
+    debian:
+        bookworm:
+eigen:
+    debian:
+        bookworm: 
+            packages: [libeigen3-dev]
+libtool:
+    debian:
+        bookworm: 
+            packages: [libtool]
+libogre:
+    debian:
+        bookworm: 
+            packages: [libogre-1.9-dev]
+log4cxx:
+    debian:
+        bookworm: 
+            packages: [liblog4cxx-dev]
+python-argparse:
+    debian:
+        bookworm: 
+            packages: [python3-argh]
+python3-empy:
+    debian:
+        bookworm: 
+            packages: [python3-empy]

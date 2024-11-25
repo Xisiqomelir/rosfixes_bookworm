@@ -2,7 +2,7 @@
 
 ### An analysis of snake-eating squirrels in Peru in 1988
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+![Screenshot of dashboard](https://i.imgur.com/APvw5B4.png)
 
 [Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
 
